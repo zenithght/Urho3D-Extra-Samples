@@ -8,18 +8,18 @@ Urho3D extra samples.
 
 Screenshots
 -----------------------------------------------------------------------------------
-### CEF integration
-![alt tag](https://github.com/Lumak/Urho3D-Extra-Samples/blob/master/screenshot/CEF.jpg)
+### 62 Geom replicator
+![alt tag](https://github.com/Lumak/Urho3D-Extra-Samples/blob/master/screenshot/replicatedGeom2.jpg)
 
-### Ocean sim
-![alt tag](https://github.com/Lumak/Urho3D-Extra-Samples/blob/master/screenshot/oceansim.jpg)
-
-### UI add-ons
+### 61 UI Test (add-ons)
 ![alt tag](https://github.com/Lumak/Urho3D-Extra-Samples/blob/master/screenshot/ui1.jpg)
 ![alt tag](https://github.com/Lumak/Urho3D-Extra-Samples/blob/master/screenshot/ui2.jpg)
 
-### Geom replicator
-![alt tag](https://github.com/Lumak/Urho3D-Extra-Samples/blob/master/screenshot/replicatedGeom2.jpg)
+### 59 Ocean sim
+![alt tag](https://github.com/Lumak/Urho3D-Extra-Samples/blob/master/screenshot/oceansim.jpg)
+
+### 56 CEF integration
+![alt tag](https://github.com/Lumak/Urho3D-Extra-Samples/blob/master/screenshot/CEF.jpg)
 
 To Build
 -----------------------------------------------------------------------------------
